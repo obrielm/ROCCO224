@@ -1,3 +1,7 @@
+[ROCO224 GITHUB LINK](https://github.com/ROCO224/ROCO224/wiki)
+
+
+
 ## **Designing**
 --------------
 --------------
@@ -24,3 +28,28 @@ Note down the tests you have performed on the design and note down the results. 
 2. an idea where the design needs to be improved, where its weakest points are and where its strengths are. Nothing gives more marks than shitting on your own design in the report (mentioning the design’s weaknesses and how the design could be improved further).  
 
 If you look at the overall coursework assignment you will probably find that most things here are also mentioned there. You might have some great ideas of your own on top of what I’ve written here and so don’t hesitate to implement them if you think they will help.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
